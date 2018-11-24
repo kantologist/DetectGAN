@@ -1,3 +1,8 @@
 .ipynb_checkpoints
 wav*
 vox1*
+*.npy
+*.tar
+models/
+__pycache__/
+files/
