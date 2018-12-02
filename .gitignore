@@ -6,3 +6,6 @@ vox1*
 models/
 __pycache__/
 files/
+data/
+gan1/
+gan2/
